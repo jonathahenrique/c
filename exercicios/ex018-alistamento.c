@@ -64,5 +64,6 @@ void main(){
     else{
         printf("Você precisará se alistar apenas daqui a %d anos.\n\n", tempo);
     }
+    printf("Teste de exibição GitHub\n\n");
     system("PAUSE");
 }
